@@ -1,0 +1,143 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+ 
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    position: absolute;
+width: 323px;
+height: 51px;
+left: 103px;
+top: 80px;
+
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    margin-right: 103px;
+    margin-top: 83px;
+    
+}   
+li{
+    float: right;
+
+}
+li a{
+    display: block; 
+    color: #494848;
+text-align: center;
+padding: 14px 16px;
+ text-decoration: none;
+
+}
+li a:hover {
+    font-weight: bold;
+}
+
+.iTravel{
+    display: flex;
+    background-color: #FBF8F5;
+    margin-top: 5%;
+    height: 600px;
+
+}
+
+.flexchild{
+    position: absolute;
+    margin-left: 44%;
+    font-size: 22px;
+    font-style: normal;
+    line-height: 35px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    max-width: 900px;
+    margin-left: 38%;
+    padding: 12%;
+   }
+.flex-container1 {
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+   }
+
+.iTravel p{
+   position: absolute; 
+width: 244px;
+height: 329px;
+top: 310px;
+margin-left: 4%;
+
+
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+color: #494848;
+}
+
+.signlanguage1 {
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    left: 40%;
+    top: 117%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    
+}
+.signlanguage{
+    display: flex;
+    background-color: #FBF8F5;
+    margin-top: 14%;
+    height: 600px;
+}
+
+
+.signlang {
+
+    display: flex;
+    flex-direction: row;
+    max-width: 900px;
+    margin-left: 10%;
+    padding: 4%;
+    
+
+
+}
+.signlanguage p{
+    position: absolute;
+width: 388px;
+height: 399px;
+left: 1000px;
+top: 1150px;
+
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #494848;
+}
+
+
+.nonprofit{
+    display: flex;
+    background-color: #FBF8F5;
+    margin-top: 14%;
+    height: 600px;
+}
+
